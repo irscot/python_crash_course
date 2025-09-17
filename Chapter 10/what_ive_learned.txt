@@ -1,3 +1,0 @@
-With Python Crash Course I learned to make lists and tuples
-With Python Crash Course I learned to work with functions and classes
-With Python Crash Course I learned to build my own reading planner program
