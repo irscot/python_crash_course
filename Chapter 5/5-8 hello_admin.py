@@ -1,5 +1,5 @@
 # Make a list of 5 usernames including the name admin.
-user_names = ['haixis', 'zay0', 'kyu00', 'rei', 'admin']
+user_names = ['isiah', 'detco', 'kiri', 'quizl', 'admin']
 
 # Run a loop greeting all users.
 for user_name in user_names:
@@ -9,4 +9,5 @@ for user_name in user_names:
     # If not the admin, give a similar message to each username.
     else:
         print(f"Hey, {user_name.title()}! Welcome back!")
+
 
